@@ -1,0 +1,11 @@
+site_name: napari-etdb
+site_description: napari interface for the Caltech electron tomography database
+site_author: Alister Burt
+
+theme: readthedocs
+
+
+repo_url: https://github.com/alisterburt/napari-etdb
+
+pages:
+- Home: index.md
